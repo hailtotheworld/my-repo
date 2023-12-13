@@ -2,4 +2,6 @@
 2번수정
 
 
-git diff 로 바뀐점을 확인할수있다~
+git diff 로 바뀐점을 확인할수있다
+
+back up
