@@ -10,3 +10,5 @@ pull했더니 충돌이나는구나. 그때 merge하면 되는거였어.
 
 
 push테스트
+
+BBBBB
